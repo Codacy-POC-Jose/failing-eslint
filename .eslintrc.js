@@ -2,7 +2,7 @@
 // You can logically derive this format.
 
 module.exports = {
-	parser: 'babel-eslint',
+	parser: 'babel-eslint'
 	extends: [
 		'plugin:flowtype/recommended',
 		'plugin:jest/recommended',
